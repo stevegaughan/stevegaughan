@@ -1,4 +1,3 @@
-## Github - home page
 ## Hi there 👋
 
 <!--
@@ -14,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Github - home page
+
 -->
